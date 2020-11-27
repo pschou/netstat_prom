@@ -1,3 +1,8 @@
+//
+//  Super simple connection tracking stats endpoint for Prometheus
+//
+//  Written by Paul Schou (github@paulschou.com)
+//
 package main
 
 import (
