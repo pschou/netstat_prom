@@ -12,7 +12,7 @@ To run:
 netstat_prom
 ```
 
-Help page:
+Program flags:
 ```
 # ./netstat_prom -h
 Usage of ./netstat_prom:
